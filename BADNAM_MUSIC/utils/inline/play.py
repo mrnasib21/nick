@@ -69,7 +69,8 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
          [
              InlineKeyboardButton(text="σᴡηєʀ", url="https://t.me/FRIEND_X_ZONE_XDll"),
-             InlineKeyboardButton(text=
+             InlineKeyboardButton(text=NE_XDll"),
+             InlineKeyboardButton(text="๏ ᴧᴅᴅ ϻє ๏","url=f"https://t.me/{app.username}?startgroup=true"),
              InlineKeyboardButton(text="ѕᴜᴘᴘσʀᴛ", url="https://t.me/FRIEND_X_ZONE_XDll")
          ],
         [
@@ -90,7 +91,8 @@ def stream_markup(_, chat_id):
          ],
         [
              InlineKeyboardButton(text="σᴡηєʀ", url="https://Badnam_xd_real_yadav"),
-             InlineKeyboardButton(text=
+             InlineKeyboardButton(text=NE_XDll"),
+             InlineKeyboardButton(text="๏ ᴧᴅᴅ ϻє ๏","url=f"https://t.me/{app.username}?startgroup=true"),
              InlineKeyboardButton(text="ѕᴜᴘᴘσʀᴛ", url="https://t.me/FRIEND_X_ZONE_XDll")
          ],
         [
