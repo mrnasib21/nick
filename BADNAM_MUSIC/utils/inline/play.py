@@ -77,8 +77,9 @@ def stream_markup(_, chat_id):
             InlineKeyboardButton(text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/FRIEND_X_ZONE_XDll")
         ],
         [
-            ],
-        [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
+        ]
+        
+            InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close"),
     ]
         ]
     ]
