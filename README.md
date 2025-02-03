@@ -4,7 +4,7 @@
 <h1 align="center"
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"><b>𝐓ᴇᴀᴍ 𝐏ᴜʀᴠɪ 𝐁ᴏᴛs</b></h1>
+<h1 align="center"><b>𝐓ᴇᴀᴍ badnam 𝐁ᴏᴛs</b></h1>
 <p align="center"><a href="https://Badnam_xd_real_yadav"><img src="https://files.catbox.moe/lncyj7.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
