@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Badnam_xd_real_yadav")
+OWNER_USERNAME = getenv("OWNER_USERNAME","NICKPAPAJI")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","YT_MUSIC_20BOT")
+BOT_USERNAME = getenv("BOT_USERNAME","NICKMUSICROBOT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002141133985))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002322736992))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7403621976))
+OWNER_ID = int(getenv("OWNER_ID", 7231323603))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -64,8 +64,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/FRIEND_X_ZONE_XDll")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/FRIEND_X_ZONE_XDll")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/WESTBENGALNETWORK")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/WESTBENGALNETWORK")
 # ------------------------------------------------------------------------------
 # ------------------------------------------------------------------------------
 
