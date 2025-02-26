@@ -1,15 +1,15 @@
-#BADNAM
+
  ➥ 𝖥ɪʀsᴛ 𝖥ᴏʀᴋ 𝖳ʜɪs 𝖱ᴇʀᴏ 𝖠ɴᴅ 𝖦ɪᴠᴇ ᴀ 𝖲ᴛᴀʀ ⭐
 ➥ 𝖳ʜᴇɴ ʜᴏsᴛ ᴏɴ ʜᴇʀᴋᴏᴜ / ᴠᴘs / ᴋᴏʏᴀʙ / ᴇᴛᴄ..👨🏻‍💻
 <h1 align="center"
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"><b>𝐓ᴇᴀᴍ badnam 𝐁ᴏᴛs</b></h1>
+<h1 align="center"><b>NICK MUSIC BOT</b></h1>
 <p align="center"><a href="https://Badnam_xd_real_yadav"><img src="https://files.catbox.moe/lncyj7.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </p>
-ʀᴀᴜsʜᴀɴ
+NICK
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
 </p>
@@ -18,14 +18,14 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Badnam019/BADNAM_MUSIC-1"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/mrnasib21/nick"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ / ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/Badnam019/BADNAM_MUSIC-1/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/mrnasib21/nick/blob/main/sample.env)
 - 
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
@@ -40,7 +40,7 @@
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 
 - Clone the repository by :
-`git clone https://github.com/Badnam019/BADNAM_MUSIC-1 && cd BADNAM_MUSIC-1`
+`git clone https://github.com/mrnasib21/nick && cd nick`
 
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
@@ -65,6 +65,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 
 ### Contact :
-<a href="https://t.me/Badnam_real_yadav_xd"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/nickpapaji"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 
-<a href="https://instagram.com/careless__02"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://instagram.com/69.plays"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
