@@ -5,7 +5,7 @@ from BADNAM_MUSIC import app
 
 #--------------------------
 
-MUST_JOIN = "NICKXMUSICROBOT"
+MUST_JOIN = "NICKPAPAJI1"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
@@ -27,7 +27,7 @@ async def must_join_channel(app: Client, msg: Message):
                         [
                             [
                                 InlineKeyboardButton("• ᴊᴏɪɴ •", url=link),
-                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/NICKXMUSICROBOT"),
+                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/NICKPAPAJI1"),
                             ]
                         ]
                     )
